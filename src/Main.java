@@ -33,15 +33,10 @@ public class Main {
 
                 result*=basValue;
 
-
             }
             System.out.println("Toplam Sonuc: " +result);
             total+=result;
             coco= coco/10;
-
-
-
-
 
 
         }
@@ -52,8 +47,6 @@ public class Main {
         }
 
         else {System.out.println(number+ " Sayisi bir Armstrong sayi DEGILDIR");}
-
-
 
 
     }
